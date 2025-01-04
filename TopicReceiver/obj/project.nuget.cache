@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UaAezxGXp1RRtVjyK1bRXA/LtnjbpMpVefLKtlE+VajAqvkYYUzqkthX7tjoshgk7SWS418V5QYJ98PhcasqGg==",
+  "dgSpecHash": "vmmF2agkFQwC7EdIeErurT7jYGttjksjGh8IY6lOBy/3C/nXt1txmwRO0agR2XxuN5zzWD5sdGV/4NWfs7KKfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\RabbitMQ\\TopicReceiver\\TopicReceiver.csproj",
+  "projectFilePath": "C:\\Users\\z3ljk\\source\\repos\\zcavic\\RabbitMQ\\TopicReceiver\\TopicReceiver.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hp\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+    "C:\\Users\\z3ljk\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\z3ljk\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\z3ljk\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

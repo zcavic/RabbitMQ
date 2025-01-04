@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\RabbitMQ\\TopicEmitter\\TopicEmitter.csproj": {}
+    "C:\\Users\\z3ljk\\source\\repos\\zcavic\\RabbitMQ\\TopicEmitter\\TopicEmitter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\RabbitMQ\\TopicEmitter\\TopicEmitter.csproj": {
+    "C:\\Users\\z3ljk\\source\\repos\\zcavic\\RabbitMQ\\TopicEmitter\\TopicEmitter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\RabbitMQ\\TopicEmitter\\TopicEmitter.csproj",
+        "projectUniqueName": "C:\\Users\\z3ljk\\source\\repos\\zcavic\\RabbitMQ\\TopicEmitter\\TopicEmitter.csproj",
         "projectName": "TopicEmitter",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\RabbitMQ\\TopicEmitter\\TopicEmitter.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\RabbitMQ\\TopicEmitter\\obj\\",
+        "projectPath": "C:\\Users\\z3ljk\\source\\repos\\zcavic\\RabbitMQ\\TopicEmitter\\TopicEmitter.csproj",
+        "packagesPath": "C:\\Users\\z3ljk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\z3ljk\\source\\repos\\zcavic\\RabbitMQ\\TopicEmitter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\z3ljk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,12 +37,12 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "RabbitMQ.Client": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.8.1, )"
             }
           },
           "imports": [
@@ -51,22 +51,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.16, 5.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
